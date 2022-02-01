@@ -1,0 +1,9 @@
+html {
+  font-size: 6.25%; /* For using REM unites (1rem = 1px) */
+}
+
+body {
+  margin: 0;
+  font-size: 14rem;
+  line-height: 1.3;
+}

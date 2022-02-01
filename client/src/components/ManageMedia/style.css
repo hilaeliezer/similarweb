@@ -1,0 +1,28 @@
+.manage-media-wrapper {
+  margin: 20rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.add-list {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 15rem;
+}
+
+.media-player-wrapper {
+  width: 40%;
+  height: 360px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24rem;
+  border: solid 1px #e3e1e1;
+}
+
+.empty-list-title {
+  text-transform: capitalize;
+}

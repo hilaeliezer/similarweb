@@ -1,0 +1,24 @@
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem 15rem;
+  font-size: 13rem;
+
+  border-radius: 5rem;
+  line-height: normal;
+  text-transform: capitalize;
+  cursor: pointer;
+}
+
+.btn-success {
+  border: 1rem solid #4ce1b6;
+  background-color: #4ce1b6;
+  color: white;
+}
+
+.btn-error {
+  border: 1rem solid #e73342;
+  background-color: #e73342;
+  color: white;
+}
