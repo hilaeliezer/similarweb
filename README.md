@@ -1,11 +1,11 @@
-# similarweb-app
+# similarweb
 
-**similarweb-app is a react & node.js cliet-server web app that allows the user to create a playlist of YouTube videos.**
+**similarweb is a react & node.js cliet-server web app that allows the user to create a playlist of YouTube videos.**
 **and plays them in order and a server backend which stores, and serves the playlist.**
 
 ## Installation:
 
-- **Link to GitHub repo:** [https://github.com/hilaeliezer/similarweb-app]
+- **Link to GitHub repo:** [https://github.com/hilaeliezer/similarweb]
 - **How to run the app:**
   1.open cmd
   2.open repository where the app located
